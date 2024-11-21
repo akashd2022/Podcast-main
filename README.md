@@ -31,6 +31,4 @@ Podcast information provided by [Listen Notes API](https://www.listennotes.com/)
 - Palette API
 
 ## Result
-
-![player]()
 [player](.//IMG_0805.MOV)
