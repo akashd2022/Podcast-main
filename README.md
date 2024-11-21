@@ -26,7 +26,11 @@ Podcast information provided by [Listen Notes API](https://www.listennotes.com/)
 - Hilt
 - Retrofit
 - Navigation
-- ViewModel
+- ViewModel!
+-
+## screenshots
+- [5b892b1a-0f64-468f-83d4-16e5ca425665](https://github.com/user-attachments/assets/d262c699-ad13-4d41-948c-95a44a68d2c5)
+
 - DataStore
 - Palette API
 
