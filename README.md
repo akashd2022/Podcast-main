@@ -32,4 +32,5 @@ Podcast information provided by [Listen Notes API](https://www.listennotes.com/)
 
 ## Result
 
-![player](demo/listen-notes-demo.gif)
+![player]()
+[player](.//IMG_0805.MOV)
