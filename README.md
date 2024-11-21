@@ -32,13 +32,4 @@ Podcast information provided by [Listen Notes API](https://www.listennotes.com/)
 
 ## Result
 
-### Dark Mode
-| ![welcome](demo/welcome_dark.png) | ![podcasts](demo/home_dark.png) |![detail](demo/detail_dark.png) |![player](demo/player_dark.png) |
-|----------|:-------------:|:-------------:|:-------------:|
-
-### Light Mode
-| ![welcome](demo/welcome_light.png) | ![podcasts](demo/home_light.png) |![detail](demo/detail_light.png) |![player](demo/player_light.png) |
-|----------|:-------------:|:-------------:|:-------------:|
-
-### Demo
 ![player](demo/listen-notes-demo.gif)
